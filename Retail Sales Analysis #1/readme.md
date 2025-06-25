@@ -156,14 +156,8 @@ This project is part of the SQL Advanced Project Series.
 For more:
 
 * [GitHub](https://github.com/aakash-gupta02)
-* [LinkedIn](https://linkedin.com/in/najirr)
+* [LinkedIn](https://linkedin.com/in/najirr](https://www.linkedin.com/in/aakash-gupta-5a337928b))
 
 ---
-
-## Next Steps
-
-* Add visualization using Python (optional)
-* Create dashboards using Power BI / Tableau (optional)
-* More sub-projects under `SQL-Adavnced-Projects` repo
 
 Stay tuned!
